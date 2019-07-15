@@ -1,0 +1,34 @@
+{
+    "name": "cordova-clipboard-plugin",
+    "version": "0.0.3",
+    "description": "Clipboard management plugin for Cordova/PhoneGap",
+    "cordova": {
+        "id": "com.verso.cordova.clipboard",
+        "platforms": [
+            "ios",
+            "android"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Anuj-Raghuvanshi/cordova-clipboard-plugin"
+    },
+    "keywords": [
+        "clipboard",
+        "copy",
+        "paste",
+        "ecosystem:cordova",
+        "cordova-ios",
+        "cordova-android"
+    ],
+    "engines": [{
+        "name": "cordova",
+        "version": ">=3.0.0"
+    }],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/VersoSolutions/CordovaClipboard/issues"
+    },
+    "homepage": "https://github.com/VersoSolutions/CordovaClipboard#readme"
+}
